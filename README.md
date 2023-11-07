@@ -1,6 +1,6 @@
 # CFuen Labs Theming
 
-Here you'll find everything you need to bring CFuen Labs to your
+Here you'll find everything you need to bring CFuen Labs' colors to your software.
 
 # Licensing
 
