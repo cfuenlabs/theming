@@ -1,0 +1,3 @@
+[submodule "tools/ct2vsix"]
+	path = tools/ct2vsix
+	url = https://github.com/cfuendev/ct2vsix
